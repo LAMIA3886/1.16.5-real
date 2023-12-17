@@ -1,0 +1,320 @@
+
+["Spell Power"]
+	#How much base damage Roar Spell deals, Default: 3.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	roarDamage = 3.0
+	#How much base damage Lavaballs deal when directly hitting a mob, Default: 6.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	lavaballDamage = 6.0
+	#How much base damage Ice Chunks deals, Default: 8.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	iceChunkDamage = 8.0
+	#How much base damage Magic Fangs deals, Default: 6.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	fangDamage = 6.0
+	#How much base damage Fireballs deal when directly hitting a mob, Default: 5.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	fireballDamage = 5.0
+	#How much base damage Poison Balls deals when summoned from Staffs, Default: 4.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	poisonballDamage = 4.0
+	#How much base damage Frost Breath deals, Default: 1.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	frostBreathDamage = 1.0
+	#How much base damage Fire Breath deals, Default: 2.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	fireBreathDamage = 2.0
+	#How much base damage Soul Skulls deal when directly hitting a mob, Default: 6.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	soulSkullDamage = 6.0
+	#How much base damage Sonic Boom Spell deals, Default: 10.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	sonicBoomDamage = 10.0
+	#How much base damage Witch's Gale deals when summoned from Staffs, Default: 2.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	witchGaleDamage = 2.0
+	#How much base damage Ice Storm deals, Default: 1.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	iceStormDamage = 1.0
+
+[Minions]
+	#Mobs will automatically be hostile to servants, if servant is hostile towards the mob, Default: true
+	mobSense = true
+	#Owners can't attack their servants, Default: true
+	ownerAttackCancel = true
+	#The radius of a Creeperling's Explosion when not powered, Default: 1.25
+	#Range: 0.0 ~ 1.7976931348623157E308
+	creeperlingExplosionRadius = 1.25
+	#Whether Undead Minions can heal if summoned while wearing Necro Robes, Default: true
+	undeadMinionHeal = true
+	#Number of Zombie Servants that can exist around the player without instantly dying, Default: 32
+	#Range: > 1
+	zombieLimit = 32
+	#How much Soul Energy it cost per second for an Undead Minion to heal, Default: 1
+	#Range: > 0
+	undeadMinionHealCost = 1
+	#Number of Undead Wolf that can exist around the player without instantly dying, Default: 32
+	#Range: > 1
+	undeadWolfLimit = 32
+	#Whether Vex Servants can teleport to Players, Default: true
+	vexTeleport = true
+	#Number of Skeleton Servants that can exist around the player without instantly dying, Default: 32
+	#Range: > 1
+	skeletonLimit = 32
+	#Whether Loyal Spiders can heal if wearing Fel Helm, Default: true
+	loyalSpiderHeal = true
+	#Skeletons killed by Soul Skull converts into a Servant, Default: true
+	soulSkullSkeletons = true
+	#Servants converted by Soul Skulls will automatically be in Wander Mode, Default: true
+	soulSkullServantWander = true
+	#Whether Servants can attack Creepers if Mob Griefing Rule is False, Default: true
+	minionAttackCreepers = true
+	#Whether Spiders will follow Royal Spiders around, Default: true
+	royalSpiderMinions = true
+	#Whether Undead Servants can teleport to Players, Default: false
+	undeadTeleport = false
+	#Number of Vex Minions that can be spawn with a wand, without instantly dying, around the player, Default: 8
+	#Range: > 1
+	wandVexLimit = 8
+	#Zombies killed by Soul Skull converts into a Servant, Default: true
+	soulSkullZombies = true
+	#How much Soul Energy it cost to animate a Rottreant, Default: 200
+	#Range: > 0
+	rottreantAnimateCost = 200
+	#Number of Vex Minions that can be spawn with a staff, without instantly dying, around the player, Default: 16
+	#Range: > 1
+	staffVexLimit = 16
+	#Allows Players to summon Zombified Piglins when casting Rotting Spell in the Nether, Default: true
+	summonZPiglins = true
+	#Whether Servants or their owner are immune to attacks made by other servants that are summoned by the same owner, Default: true
+	minionMasterImmune = true
+	#How much Soul Energy it cost per second for an Loyal Spider to heal, Default: 1
+	#Range: > 0
+	loyalSpiderHealCost = 1
+	#Number of Fel Flies and Spiderlings a Rottreant can summon, Default: 8
+	#Range: > 1
+	rottreantBugLimit = 8
+
+["Summon Down Duration"]
+	#Vex Spell Cooldown, Default: 340
+	#Range: 0 ~ 72000
+	vexCooldown = 340
+	#Spooky Spell Cooldown, Default: 300
+	#Range: 0 ~ 72000
+	wraithCooldown = 300
+	#Phantasm Spell Cooldown, Default: 300
+	#Range: 0 ~ 72000
+	phantomCooldown = 300
+	#Rigid Spell Cooldown, Default: 300
+	#Range: 0 ~ 72000
+	dredenCooldown = 300
+	#Hounding Spell Cooldown, Default: 30
+	#Range: 0 ~ 72000
+	undeadWolfCooldown = 30
+	#Rotting Spell Cooldown, Default: 120
+	#Range: 0 ~ 72000
+	zombieCooldown = 120
+	#Osseous Spell Cooldown, Default: 280
+	#Range: 0 ~ 72000
+	skeletonCooldown = 280
+
+["Casting Time"]
+	#Time to cast Lava Bomb Spell, Default: 20
+	#Range: 0 ~ 72000
+	lavaBombTime = 20
+	#Time to cast Rotting Spell, Default: 20
+	#Range: 0 ~ 72000
+	zombieTime = 20
+	#Time to cast Tempting Spell per second, Default: 20
+	#Range: 0 ~ 72000
+	temptingTime = 20
+	#Time to cast Illusion Spell, Default: 40
+	#Range: 0 ~ 72000
+	illusionTime = 40
+	#Time to cast Phantasm Spell, Default: 60
+	#Range: 0 ~ 72000
+	phantomTime = 60
+	#Time to cast Spiderling Spell per second, Default: 10
+	#Range: 0 ~ 72000
+	spiderlingTime = 10
+	#Time to cast Ice Storm Spell, Default: 60
+	#Range: 0 ~ 72000
+	iceStormTime = 60
+	#Time to cast Breathing Spell per second, Default: 1
+	#Range: 0 ~ 72000
+	breathingTime = 1
+	#Time to cast Ice Chunk Spell, Default: 40
+	#Range: 0 ~ 72000
+	iceChunkTime = 40
+	#Time to cast Vex Spell, Default: 100
+	#Range: 0 ~ 72000
+	vexTime = 100
+	#Time to cast Creeperling Spell per second, Default: 10
+	#Range: 0 ~ 72000
+	creeperlingTime = 10
+	#Time to cast Feasting Spell per second, Default: 20
+	#Range: 0 ~ 72000
+	feastTime = 20
+	#Time to cast Wraith Spell, Default: 60
+	#Range: 0 ~ 72000
+	wraithTime = 60
+	#Time to cast Recall Spell, Default: 160
+	#Range: 0 ~ 72000
+	recallTime = 160
+	#Time to cast Sonic Boom Spell, Default: 60
+	#Range: 0 ~ 72000
+	sonicBoomTime = 60
+	#Time to cast Roaring Spell, Default: 40
+	#Range: 0 ~ 72000
+	roarTime = 40
+	#Time to cast Brain Eater Spell per second, Default: 1
+	#Range: 0 ~ 72000
+	brainEaterTime = 1
+	#Time to cast Witch's Gale Spell, Default: 20
+	#Range: 0 ~ 72000
+	crippleTime = 20
+	#Time to cast Dragon Fireball Spell, Default: 30
+	#Range: 0 ~ 72000
+	dragonFireballTime = 30
+	#Time to cast Fang Spell, Default: 40
+	#Range: 0 ~ 72000
+	fangTime = 40
+	#Time to cast Rigid Spell, Default: 60
+	#Range: 0 ~ 72000
+	dredenTime = 60
+	#Time to cast Hounding Spell, Default: 20
+	#Range: 0 ~ 72000
+	undeadWolfTime = 20
+	#Time to cast Osseous Spell, Default: 60
+	#Range: 0 ~ 72000
+	skeletonTime = 60
+
+[Enchantments]
+	#Soul Eater Maximum Enchantment Level, Default: 5
+	#Range: 1 ~ 10
+	maxSoulEaterLevel = 5
+	#Radius Maximum Enchantment Level, Default: 2
+	#Range: 1 ~ 10
+	maxRadiusLevel = 2
+	#Wanting Maximum Enchantment Level, Default: 3
+	#Range: 1 ~ 10
+	maxWantingLevel = 3
+	#Range Maximum Enchantment Level, Default: 10
+	#Range: 1 ~ 10
+	maxRangeLevel = 10
+	#Duration Maximum Enchantment Level, Default: 3
+	#Range: 1 ~ 10
+	maxDurationLevel = 3
+	#Potency Maximum Enchantment Level, Default: 5
+	#Range: 1 ~ 10
+	maxPotencyLevel = 5
+
+["Spell Costs"]
+	#Spiderling Spell Cost per second, Default: 2
+	#Range: > 0
+	spiderlingCost = 2
+	#Osseous Spell Cost, Default: 8
+	#Range: > 0
+	skeletonCost = 8
+	#Frost Breath Spell Cost per second, Default: 2
+	#Range: > 0
+	frostBreathCost = 2
+	#Creeperling Spell Cost per second, Default: 8
+	#Range: > 0
+	creeperlingCost = 8
+	#Illusion Spell Cost, Default: 20
+	#Range: > 0
+	illusionCost = 20
+	#Feasting Spell Cost, Default: 8
+	#Range: > 0
+	feastCost = 8
+	#Lava Bomb Spell Cost, Default: 16
+	#Range: > 0
+	lavaBombCost = 16
+	#Tempting Spell Cost, Default: 2
+	#Range: > 0
+	temptingCost = 2
+	#Glow Light Spell Cost, Default: 4
+	#Range: > 0
+	glowLightCost = 4
+	#Phantasm Spell Cost, Default: 16
+	#Range: > 0
+	phantomCost = 16
+	#Poison Ball Spell Cost, Default: 4
+	#Range: > 0
+	poisonBallCost = 4
+	#Spooky Spell Cost, Default: 24
+	#Range: > 0
+	wraithCost = 24
+	#Sonic Boom Spell Cost, Default: 16
+	#Range: > 0
+	sonicBoomCost = 16
+	#Teleport Spell Cost, Default: 5
+	#Range: > 0
+	teleportCost = 5
+	#Breathing Spell Cost per second, Default: 2
+	#Range: > 0
+	breathingCost = 2
+	#Dragon Fireball Spell Cost, Default: 64
+	#Range: > 0
+	dragonFireballCost = 64
+	#Ice Chunk Spell Cost, Default: 16
+	#Range: > 0
+	iceChunkCost = 16
+	#Fang Spell Cost, Default: 8
+	#Range: > 0
+	fangCost = 8
+	#How much Experience the above spell Cost per heal, Default: 40
+	#Range: 0 ~ 1000
+	brainXpCost = 40
+	#Rotting Spell Cost, Default: 5
+	#Range: > 0
+	zombieCost = 5
+	#Fire Breath Spell Cost per second, Default: 2
+	#Range: > 0
+	fireBreathCost = 2
+	#Recall Spell Cost, Default: 1000
+	#Range: > 0
+	recallCost = 1000
+	#Soul Skull Spell Cost, Default: 16
+	#Range: > 0
+	soulSkullCost = 16
+	#Vex Spell Cost, Default: 18
+	#Range: > 0
+	vexCost = 18
+	#Roaring Spell Cost, Default: 10
+	#Range: > 0
+	biteCost = 10
+	#Hounding Spell Cost, Default: 2
+	#Range: > 0
+	undeadWolfCost = 2
+	#Ender Acid Breath Spell Cost, Default: 6
+	#Range: > 0
+	enderAcidBreathCost = 6
+	#Launch Spell Cost, Default: 4
+	#Range: > 0
+	launchCost = 4
+	#Witch's Gale Spell Cost, Default: 15
+	#Range: > 0
+	crippleCost = 15
+	#Brain Eater Spell Cost per second, Default: 5
+	#Range: > 0
+	brainCost = 5
+	#Rigid Spell Cost, Default: 16
+	#Range: > 0
+	dredenCost = 16
+	#Fireball Spell Cost, Default: 4
+	#Range: > 0
+	fireballCost = 4
+	#Ice Storm Spell Cost, Default: 16
+	#Range: > 0
+	iceStormCost = 16
+	#Soul Light Spell Cost, Default: 2
+	#Range: > 0
+	soulLightCost = 2
+
+[General]
+	#Multiplies the damage of spells by this amount, Default: 1
+	#Range: > 1
+	spellDamageMultiplier = 1
+
