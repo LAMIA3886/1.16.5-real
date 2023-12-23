@@ -7,3 +7,1373 @@
 [24122023 08:31:56.187] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
 [24122023 08:31:56.251] [main/WARN] [mixin/]: Reference map 'yes_steve_model.refmap.json' for yes_steve_model.mixins.json could not be read. If this is a development environment you can ignore this message
 [24122023 08:31:56.266] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[24122023 08:32:05.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:05.539] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:05.542] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:05.543] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:05.812] [modloading-worker-26/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[24122023 08:32:05.829] [modloading-worker-20/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[24122023 08:32:05.972] [modloading-worker-26/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[24122023 08:32:06.049] [modloading-worker-18/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[24122023 08:32:06.052] [modloading-worker-18/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[24122023 08:32:06.339] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loading configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Common.toml
+[24122023 08:32:06.352] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Built configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Common.toml
+[24122023 08:32:06.365] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loaded configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Common.toml
+[24122023 08:32:06.366] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loading configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Server.toml
+[24122023 08:32:06.366] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Built configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Server.toml
+[24122023 08:32:06.392] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loaded configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Server.toml
+[24122023 08:32:06.400] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loading configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Client.toml
+[24122023 08:32:06.489] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Built configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Client.toml
+[24122023 08:32:06.496] [modloading-worker-19/INFO] [com.nitespring.bloodborne.BloodborneMod/]: Loaded configC:\minecraft\リアル2マルチ\config\BloodAndMadnessMod-Client.toml
+[24122023 08:32:06.834] [modloading-worker-5/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:32:06.872] [modloading-worker-27/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[24122023 08:32:06.876] [modloading-worker-27/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[24122023 08:32:07.033] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: C:\minecraft\リアル2マルチ\config\illageandspillage-client.toml
+[24122023 08:32:07.038] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: C:\minecraft\リアル2マルチ\config\illageandspillage-client.toml
+[24122023 08:32:07.039] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: C:\minecraft\リアル2マルチ\config\illageandspillage-client.toml
+[24122023 08:32:07.044] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: C:\minecraft\リアル2マルチ\config\illageandspillage-common.toml
+[24122023 08:32:07.046] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: C:\minecraft\リアル2マルチ\config\illageandspillage-common.toml
+[24122023 08:32:07.072] [modloading-worker-15/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: C:\minecraft\リアル2マルチ\config\illageandspillage-common.toml
+[24122023 08:32:22.817] [main/INFO] [Spartan Weaponry/]: Registering items...
+[24122023 08:32:22.819] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[24122023 08:32:23.417] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:deer, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.417] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:boar, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.418] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:auroch, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.418] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:fowl, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.418] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:mouflon, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.418] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:mammoth, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.418] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:saber_tooth_tiger, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.419] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:woolly_rhino, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.419] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:terror_bird, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.419] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for stone_age:coelacanth, use EntityAttributeCreationEvent instead.
+[24122023 08:32:23.646] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[24122023 08:32:23.686] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:23.687] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[24122023 08:32:23.989] [main/INFO] [corgitaco.enhancedcelestials.Main/]: enhancedcelestials: Sounds registered!
+[24122023 08:32:24.612] [main/INFO] [blockarmor/]: Generated 1264 Block Armor items from Vanilla Blocks
+[24122023 08:32:24.612] [main/INFO] [blockarmor/]: Generated 3276 Block Armor items from Modded Blocks
+[24122023 08:32:24.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:the_end has been registered twice for the same name minecraft:the_end.
+[24122023 08:32:24.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_barrens has been registered twice for the same name minecraft:end_barrens.
+[24122023 08:32:24.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:small_end_islands has been registered twice for the same name minecraft:small_end_islands.
+[24122023 08:32:24.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_midlands has been registered twice for the same name minecraft:end_midlands.
+[24122023 08:32:24.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_highlands has been registered twice for the same name minecraft:end_highlands.
+[24122023 08:32:25.292] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[24122023 08:32:25.353] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.nitespring.bloodborne.common.entities.boss.BloodStarvedBeastEntity from class com.nitespring.bloodborne.common.entities.beasts.SilverbeastEntity
+[24122023 08:32:25.354] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.nitespring.bloodborne.common.entities.boss.BloodStarvedBeastEntity from class com.nitespring.bloodborne.common.entities.beasts.SilverbeastEntity
+[24122023 08:32:25.354] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.nitespring.bloodborne.common.entities.boss.BloodStarvedBeastEntity from class com.nitespring.bloodborne.common.entities.beasts.SilverbeastEntity
+[24122023 08:32:25.356] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.nitespring.bloodborne.common.entities.FatherGascoigneEntityOld from class com.nitespring.bloodborne.common.entities.FatherGascoigneOld
+[24122023 08:32:25.515] [modloading-worker-20/INFO] [Dungeon Crawl/]: Common Setup
+[24122023 08:32:25.538] [modloading-worker-11/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[24122023 08:32:25.543] [modloading-worker-20/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[24122023 08:32:25.546] [modloading-worker-20/INFO] [Dungeon Crawl/]: minecraft:overworld
+[24122023 08:32:25.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+[24122023 08:32:25.600] [modloading-worker-26/INFO] [com.Polarice3.Goety.Goety/]: Loading compat module for mod curios
+[24122023 08:32:25.631] [modloading-worker-9/INFO] [AE2:C/]: Post Initialization ( started )
+[24122023 08:32:25.665] [modloading-worker-9/INFO] [AE2:C/]: Post Initialization ( ended after 35ms )
+[24122023 08:32:25.872] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:spectrafly, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.873] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:purpur_golem, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.873] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:himmelite, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.874] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.passive.BeeEntity from class blueduck.outerend.entities.StalkerEntity
+[24122023 08:32:25.874] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:stalker, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.874] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:entombed, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.876] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for outer_end:chorus_squid, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.883] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for guardvillagers:guard, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.909] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[24122023 08:32:25.910] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[24122023 08:32:25.910] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[24122023 08:32:25.910] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[24122023 08:32:25.972] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:igniter, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.973] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:magispeller, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.973] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:faker, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.973] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:dispenser, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.974] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:illashooter, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.974] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:crashager, use EntityAttributeCreationEvent instead.
+[24122023 08:32:25.974] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for illageandspillage:boss_randomizer, use EntityAttributeCreationEvent instead.
+[24122023 08:32:26.015] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[24122023 08:32:26.059] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[24122023 08:32:26.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: BETA Current: 1.16.4-1.1.2 Target: null
+[24122023 08:32:26.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[24122023 08:32:26.207] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_392]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[24122023 08:32:26.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[24122023 08:32:26.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: OUTDATED Current: 1.2.4 Target: 1.2.6
+[24122023 08:32:26.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24122023 08:32:26.318] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:megalake_grove to structure_gel:[]
+[24122023 08:32:26.319] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lush_smaragdant_cave to structure_gel:[]
+[24122023 08:32:26.319] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:sulphur_springs to structure_gel:[]
+[24122023 08:32:26.319] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:shadow_plain to structure_gel:[]
+[24122023 08:32:26.319] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:dense_woods to structure_gel:[]
+[24122023 08:32:26.319] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered stacked_dimensions_warden:deeper_dark to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:umbrella_jungle to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:shadow_forest to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:limestone_mountains to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:cortinarius_violaceus_forest to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered appliedenergistics2:spatial_storage to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:aerial_tree_forest to structure_gel:[]
+[24122023 08:32:26.320] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:sand_hills to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lantern_woods to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:crystal_forest to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_aurora_cave to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:shadow_forest to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:neon_oasis to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_end_cave to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered esencia:avernusforest to structure_gel:[]
+[24122023 08:32:26.321] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:foggy_mushroomland to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lush_aurora_cave to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered desolation:charred_forest to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:chorus_forest to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:amber_land to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:sand_dunes to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered bayou_blues:bayou to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered graveyard:eroded_haunted_forest to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:limestone_crags to structure_gel:[]
+[24122023 08:32:26.322] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:giant_red_mushroom_forest to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:copper_pine_forest to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:sparse_woods to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dragon_graveyards to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_smaragdant_cave to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:glowing_grasslands to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered graveyard:haunted_forest to structure_gel:[]
+[24122023 08:32:26.323] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered undead:the_mist to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered bayou_blues:bayou_hills to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered esencia:night_time_ruins to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:lapis_robinia_savana to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:aerial_hell_plains to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:dried_river to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered outer_end:crystal_crag to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:dead_oasis to structure_gel:[]
+[24122023 08:32:26.324] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:blossoming_spires to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:painted_mountains to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:crystal_mountains to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered esencia:omorfia to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:slippery_sand_ocean to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered esencia:dionyia to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered graveyard:haunted_lakes to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered esencia:avalancia to structure_gel:[]
+[24122023 08:32:26.325] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:sand_plains to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:verdigris_agaric_forest to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dust_wastelands to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered aerialhell:crystal_plains to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered atum:oasis to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dry_shrubland to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:ice_starfield to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered outer_end:azure_forest to structure_gel:[]
+[24122023 08:32:26.326] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:megalake to structure_gel:[]
+[24122023 08:32:26.327] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:tower
+[24122023 08:32:26.327] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:bigger_dungeon
+[24122023 08:32:26.328] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:leviathan
+[24122023 08:32:26.328] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:snowy_temple
+[24122023 08:32:26.328] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:end_ruins
+[24122023 08:32:26.328] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:warped_garden
+[24122023 08:32:26.328] [modloading-worker-23/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:soul_prison
+[24122023 08:32:26.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.41
+[24122023 08:32:26.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [placeableitems] Starting version check at https://raw.githubusercontent.com/Ferdzz/PlaceableItems/master/update.json
+[24122023 08:32:26.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [placeableitems] Found status: UP_TO_DATE Current: 4.5.1 Target: null
+[24122023 08:32:26.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[24122023 08:32:26.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: OUTDATED Current: 3.1.0 Target: 3.2.1
+[24122023 08:32:26.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24122023 08:32:26.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 1.0.15 Target: null
+[24122023 08:32:26.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[24122023 08:32:27.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
+[24122023 08:32:36.205] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:sand_dunes!
+[24122023 08:32:36.344] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:badlands!
+[24122023 08:32:36.355] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:limestone_crags!
+[24122023 08:32:36.359] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:modified_badlands_plateau!
+[24122023 08:32:36.391] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: biomesoplenty:lush_desert!
+[24122023 08:32:36.401] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:sparse_woods!
+[24122023 08:32:36.404] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:desert_hills!
+[24122023 08:32:36.415] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:sand_plains!
+[24122023 08:32:36.423] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:dried_river!
+[24122023 08:32:36.432] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:limestone_mountains!
+[24122023 08:32:36.444] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:sand_hills!
+[24122023 08:32:36.457] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:dense_woods!
+[24122023 08:32:36.469] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: biomesoplenty:lush_savanna!
+[24122023 08:32:36.496] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:desert_lakes!
+[24122023 08:32:36.512] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:eroded_badlands!
+[24122023 08:32:36.514] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:modified_wooded_badlands_plateau!
+[24122023 08:32:36.528] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:oasis!
+[24122023 08:32:36.532] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:wooded_badlands_plateau!
+[24122023 08:32:36.534] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: biomesoplenty:wasteland!
+[24122023 08:32:36.539] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:badlands_plateau!
+[24122023 08:32:36.550] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: atum:dead_oasis!
+[24122023 08:32:36.556] [main/INFO] [STDOUT/]: [com.nitespring.bloodborne.core.event.SpawnHandler:onBiomeLoading:104]: Added silverbeasts to biome: minecraft:desert!
+[24122023 08:32:36.695] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24122023 08:32:37.130] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[24122023 08:32:37.132] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[24122023 08:32:37.136] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24122023 08:32:37.137] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24122023 08:32:37.139] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24122023 08:32:37.140] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24122023 08:32:37.141] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24122023 08:32:37.154] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mowziesmobs-1.5.27.jar, skds_core-1.16.5-0.2.0.jar, CC(FG1.16.5)+v1.1.6.jar, The_Graveyard_2.1_(FORGE)_for_1.16.4-1.16.5.jar, ComfortableNether5.2.1.jar, abnormals_core-1.16.5-3.3.1.jar, Bayou-Blues-1.16.5-1.0.5.jar, libraryferret-forge-1.16.5-4.0.0.jar, BlockArmor-1.16.5-2.6.4.jar, UNDEADv.1.7.b.release+Biome.jar, BetterCaves-Forge-1.16.4-1.1.2.jar, Goety-1.36.1.jar, citadel-1.8.1-1.16.5.jar, appliedenergistics2-8.4.7.jar, SereneSeasons-1.16.5-4.0.1.130-universal.jar, YungsApi-1.16.4-Forge-13.jar, OuterEnd-0.2.14.jar, DungeonCrawl-1.16.5-2.3.12.jar, guardvillagers-1.16.5.1.2.4.jar, stone-age-1.16.5-1.3.2.jar, aerialhell-0.5.1_forge1.16.5.jar, forge-1.16.5-36.2.39-universal.jar, wpo-1.16.5-0.3.0.jar, betterendforge-1.16.5-1.6.3.jar, structure_gel-1.16.5-1.7.8.jar, TenshiLib-1.16.3-1.3.0.jar, FarmersDelight-1.16.5-0.6.0.jar, BloodAndMadness-Forge1.16.5-v1.3.2.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, dungeons_plus-1.16.5-1.1.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, (1.16.5)+1.0.4+Sanity+And+Insanity.jar, Esencia_public_beta_0.1.1.jar, dimdungeons-1.13.1.jar, mostructures-forge-1.2.0-1.16.5.jar, L_Enders+Cataclysm-0.48+Changed+Theme+-1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, Atum-1.16.5-2.2.12.jar, Mantle-1.16.5-1.6.157.jar, collective-1.16.5-5.49.jar, dragondropselytra_1.16.5-1.4.jar, placeableitems-4.5.1.jar, YungsExtras-Forge-1.16.4-1.0.jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, bettervillage-forge-1.16.5-3.2.0.jar, ages-api-1.16.5-1.2.0.jar, BetterStrongholds-1.16.4-1.2.1.jar, Desolation+1.1.2+1.16.5.jar, deepercavesupdate1-16.jar, SpartanWeaponry-1.16.5-2.2.0-rc-2.jar, mcw-furniture-3.1.0-mc1.16.5forge.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, enhancedcelestials-2.0.9-1.16.5.jar, ColdSweat-2.1.11.3.jar, illageandspillage-1.16.5-1.0.2.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, DynamicTrees-1.16.5-0.10.5.jar, BetterMineshafts-Forge-1.16.4-2.0.4.jar, geckolib-forge-1.16.5-3.0.106.jar, Wofljes_Level_Up_HP.zip, TravelersBackpack-1.16.5-5.4.50.jar, yesstevemodel-1.16.5-release-1.1.5-hotfix-3.jar
+[24122023 08:32:38.059] [Worker-Main-13/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:himmel_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_brick_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:mossy_violite_brick_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_tile_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:mossy_violite_tile_vertical_slab (from OuterEnd-0.2.14.jar)
+[24122023 08:32:38.062] [Worker-Main-13/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:himmel_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_brick_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:mossy_violite_brick_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:violite_tile_vertical_slab (from OuterEnd-0.2.14.jar),outer_end:mossy_violite_tile_vertical_slab (from OuterEnd-0.2.14.jar)
+[24122023 08:32:38.067] [Worker-Main-13/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 0 sets of modifiers
+[24122023 08:32:38.084] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab as it's serializer returned null
+[24122023 08:32:38.091] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/slab_from_vertical_slab as it's serializer returned null
+[24122023 08:32:38.117] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe comfortable_nether:redstone_repeater_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wall_torch'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.119] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab as it's serializer returned null
+[24122023 08:32:38.142] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:pink_rune as it's serializer returned null
+[24122023 08:32:38.156] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_planks as it's serializer returned null
+[24122023 08:32:38.164] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/slab_from_vertical_slab as it's serializer returned null
+[24122023 08:32:38.166] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_slab as it's serializer returned null
+[24122023 08:32:38.177] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe goety:black_book
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.178] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_planks as it's serializer returned null
+[24122023 08:32:38.191] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:cyan_rune as it's serializer returned null
+[24122023 08:32:38.192] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab as it's serializer returned null
+[24122023 08:32:38.194] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_ladder as it's serializer returned null
+[24122023 08:32:38.196] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab as it's serializer returned null
+[24122023 08:32:38.202] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_bookshelf as it's serializer returned null
+[24122023 08:32:38.206] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/slab_from_vertical_slab as it's serializer returned null
+[24122023 08:32:38.233] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_slab as it's serializer returned null
+[24122023 08:32:38.241] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/slab_from_vertical_slab as it's serializer returned null
+[24122023 08:32:38.241] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/slab_from_vertical_slab as it's serializer returned null
+[24122023 08:32:38.247] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe comfortable_nether:redstone_comparator_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wall_torch'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.265] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab as it's serializer returned null
+[24122023 08:32:38.280] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab as it's serializer returned null
+[24122023 08:32:38.293] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_to_slab as it's serializer returned null
+[24122023 08:32:38.296] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:green_rune as it's serializer returned null
+[24122023 08:32:38.313] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 29 recipes
+[24122023 08:32:38.317] [Worker-Main-13/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Skipped advancement modifier "criteria" for advancement "environmental:adventure/find_natural_slabfish" as its conditions were not met
+[24122023 08:32:38.376] [Worker-Main-13/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 3 sets of modifiers
+[24122023 08:32:38.625] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/azure_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:azure_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.646] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/azure_ladder
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_ladder'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.668] [Worker-Main-13/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[24122023 08:32:38.738] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/mossy_violite_tile_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:mossy_violite_tile_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.755] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/mossy_violite_brick_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:mossy_violite_brick_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.767] [Worker-Main-13/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[24122023 08:32:38.776] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/azure_vertical_planks
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_vertical_planks'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.815] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table goety:advancements/starter_book
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:38.837] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/himmel_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:39.015] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/violite_tile_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:violite_tile_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:39.048] [Worker-Main-13/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[24122023 08:32:39.160] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/azure_beehive
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_beehive'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:39.211] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/azure_bookshelf
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_bookshelf'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.ParentedLootEntry$1.func_230421_b_(SourceFile:61) ~[?:?]
+	at net.minecraft.loot.ParentedLootEntry$1.func_230421_b_(SourceFile:53) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:39.267] [Worker-Main-13/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table outer_end:blocks/violite_brick_vertical_slab
+java.lang.IllegalArgumentException: Can't find block outer_end:violite_brick_vertical_slab
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227569_a_(SourceFile:79) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:290) ~[?:1.8.0_392]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:79) ~[?:?]
+	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_230423_a_(SourceFile:68) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:98) ~[?:?]
+	at net.minecraft.loot.LootFunction$Serializer.func_230423_a_(SourceFile:88) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:149) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1290) ~[?:1.8.0_392]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:575) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:649) ~[?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_392]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:543) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:667) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609) [?:1.8.0_392]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_392]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_392]
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thestone}.pools[1].entries[3].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/themermaid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thebomber}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/spitter}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/spitter}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.342] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/theflamingfungus}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/therotten}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/lostsoul}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thepregnant}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thestone}.pools[1].entries[0].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thebladedancer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thesnatcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.343] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thebladedancer}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/zombiecow}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thestone}.pools[1].entries[2].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/the_screecher}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/icychomper}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/themoonflower}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thegluttony}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thestone}.pools[1].entries[4].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {comfortable_nether:entities/netherite_golem}.pools[2].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.344] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/theheavy}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/therotten}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/thestone}.pools[1].entries[1].condition[0]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/the_melancholy}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {comfortable_nether:entities/netherite_golem}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/theflamingfungus}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.345] [Worker-Main-13/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {undead:entities/theflamingfungus}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[24122023 08:32:39.399] [Worker-Main-13/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement undead:hungruy: Unknown item id 'undead:glutonnybottle'
+[24122023 08:32:39.411] [Worker-Main-13/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement goety:goety/craft_all_focus: Expected item to be an item, was unknown string 'goety:focus_bag'
+[24122023 08:32:39.461] [Worker-Main-13/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2873 advancements
+[24122023 08:32:39.464] [Worker-Main-13/INFO] [Dungeon Crawl/]: Loading data...
+[24122023 08:32:39.902] [Worker-Main-13/INFO] [Dungeon Crawl/]: Done.
+[24122023 08:32:49.302] [main/INFO] [net.skds.wpo.WPO/]: Cleaning blocks...
+[24122023 08:32:49.306] [main/INFO] [net.skds.wpo.WPO/]: Reading fluid configs...
+[24122023 08:32:49.308] [main/INFO] [net.skds.wpo.WPO/]: Configs reloaded in 6ms
+[24122023 08:32:59.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[24122023 08:32:59.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24122023 08:32:59.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24122023 08:32:59.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24122023 08:32:59.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24122023 08:32:59.465] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[24122023 08:32:59.840] [Server thread/INFO] [blockarmor/]: Syncing config!
+[24122023 08:32:59.892] [Thread-1/INFO] [blockarmor/]: Syncing config!
+[24122023 08:32:59.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24122023 08:33:00.050] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.062] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.073] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.077] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.081] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.087] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.091] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.104] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.107] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[24122023 08:33:00.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24122023 08:33:00.866] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24122023 08:33:00.866] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24122023 08:33:01.121] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[24122023 08:33:01.232] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1120 ms
+[24122023 08:33:01.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.431s)! For help, type "help"
+[24122023 08:33:01.260] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[24122023 08:33:02.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[24122023 08:33:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24122023 08:33:02.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24122023 08:33:02.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24122023 08:33:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24122023 08:33:03.110] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24122023 08:33:03.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24122023 08:33:03.112] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24122023 08:33:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24122023 08:33:03.114] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24122023 08:33:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aerialhell:aerial_hell
+[24122023 08:33:03.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (aerial_hell): All chunks are saved
+[24122023 08:33:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[24122023 08:33:03.117] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[24122023 08:33:03.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stacked_dimensions_warden:deeper_dark
+[24122023 08:33:03.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (deeper_dark): All chunks are saved
+[24122023 08:33:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/appliedenergistics2:spatial_storage
+[24122023 08:33:03.119] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[24122023 08:33:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimdungeons:dungeon_dimension
+[24122023 08:33:03.121] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[24122023 08:33:03.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/esencia:esencia
+[24122023 08:33:03.122] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (esencia): All chunks are saved
+[24122023 08:33:03.171] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24122023 08:33:03.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24122023 08:33:03.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24122023 08:33:03.176] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (aerial_hell): All chunks are saved
+[24122023 08:33:03.177] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[24122023 08:33:03.177] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (deeper_dark): All chunks are saved
+[24122023 08:33:03.177] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[24122023 08:33:03.177] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon_dimension): All chunks are saved
+[24122023 08:33:03.178] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (esencia): All chunks are saved
