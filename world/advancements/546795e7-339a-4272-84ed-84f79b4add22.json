@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-12-14 01:25:35 +0900"
@@ -17,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
@@ -26,6 +38,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2023-12-14 01:52:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
     },
     "done": true
   },
@@ -59,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_recipe": "2023-12-14 01:50:03 +0900"
@@ -89,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-12-25 03:35:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-12-12 08:11:23 +0900"
@@ -98,6 +128,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_recipe": "2023-12-18 00:51:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -116,6 +152,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2023-12-14 08:55:38 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -245,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/cooked_boar_meat_from_campfire_cooking": {
     "criteria": {
       "has_recipe": "2023-12-12 08:09:46 +0900"
@@ -281,6 +335,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/end_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/horse_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2023-12-18 00:50:21 +0900"
@@ -290,6 +368,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_recipe": "2023-12-14 01:50:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -359,9 +443,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_rope": "2023-12-18 01:50:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-25 01:04:28 +0900"
     },
     "done": true
   },
@@ -392,6 +500,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_recipe": "2023-12-12 08:19:38 +0900"
+    },
+    "done": true
+  },
+  "goety:goety/get_totem": {
+    "criteria": {
+      "requirement": "2023-12-25 04:56:08 +0900"
     },
     "done": true
   },
@@ -431,6 +545,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_item": "2023-12-25 00:11:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2023-12-12 08:11:23 +0900"
@@ -443,9 +569,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-12-24 23:53:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-14 01:52:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -454,6 +598,16 @@
       "mermaid": "2023-12-14 03:50:01 +0900"
     },
     "done": true
+  },
+  "goety:goety/kill_most_cultists": {
+    "criteria": {
+      "thug": "2023-12-24 23:46:53 +0900",
+      "disciple": "2023-12-24 23:49:25 +0900",
+      "zealot": "2023-12-24 23:34:25 +0900",
+      "channeller": "2023-12-24 23:41:05 +0900",
+      "fanatic": "2023-12-24 23:37:26 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
@@ -503,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-12-14 02:07:54 +0900"
@@ -521,9 +681,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2023-12-14 02:55:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -563,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-12-24 23:42:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-14 03:37:13 +0900"
@@ -587,6 +783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-12-24 23:37:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_recipe": "2023-12-14 02:07:44 +0900"
@@ -602,6 +804,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2023-12-14 01:25:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -641,9 +849,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/cooked_rhino_meat_from_campfire_cooking": {
     "criteria": {
       "has_recipe": "2023-12-14 02:23:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -707,6 +927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-24 23:53:23 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
@@ -722,6 +948,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_gold": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2023-12-24 23:38:01 +0900"
     },
     "done": true
   },
@@ -743,6 +975,12 @@
     },
     "done": true
   },
+  "goety:goety/gain_nether_book": {
+    "criteria": {
+      "requirement": "2023-12-24 23:41:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2023-12-14 05:27:23 +0900"
@@ -758,6 +996,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -791,6 +1035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
@@ -815,15 +1065,33 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2023-12-24 23:04:52 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -886,9 +1154,10 @@
       "mutton": "2023-12-14 02:55:18 +0900",
       "wool": "2023-12-14 01:49:03 +0900",
       "chicken": "2023-12-14 02:55:05 +0900",
-      "beef": "2023-12-18 10:03:21 +0900"
+      "beef": "2023-12-18 10:03:21 +0900",
+      "porkchop": "2023-12-24 23:37:59 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
@@ -914,15 +1183,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2023-12-12 08:21:37 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-12-25 02:10:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-12-14 03:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -959,6 +1252,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2023-12-18 02:07:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -1037,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2023-12-14 01:15:10 +0900"
@@ -1063,13 +1368,22 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2023-12-22 10:39:49 +0900"
+      "minecraft:crimson_forest": "2023-12-25 00:37:29 +0900",
+      "minecraft:nether_wastes": "2023-12-22 10:39:49 +0900",
+      "minecraft:soul_sand_valley": "2023-12-25 03:38:24 +0900",
+      "minecraft:warped_forest": "2023-12-25 03:44:54 +0900"
     },
     "done": false
   },
   "stone_age:recipes/stone_age/dried_grass": {
     "criteria": {
       "has_recipe": "2023-12-14 01:24:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -1151,9 +1465,21 @@
     },
     "done": true
   },
+  "goety:goety/kill_a_cultist": {
+    "criteria": {
+      "kill_a_cultist": "2023-12-24 23:34:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2023-12-14 05:27:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -1172,6 +1498,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2023-12-12 08:21:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-25 01:04:28 +0900"
     },
     "done": true
   },
@@ -1241,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-25 01:04:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-12-12 08:21:43 +0900"
@@ -1253,15 +1591,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/cooked_venison_from_smoking": {
     "criteria": {
       "has_recipe": "2023-12-14 02:19:10 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-12-14 06:03:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -1292,6 +1648,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2023-12-14 06:03:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -1361,9 +1723,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/snow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -1391,9 +1771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "undead:moony": {
     "criteria": {
       "moony": "2023-12-14 02:42:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -1524,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/fox_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2023-12-12 08:25:53 +0900"
@@ -1626,6 +2024,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
@@ -1650,6 +2054,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2023-12-14 07:13:34 +0900"
@@ -1659,6 +2075,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2023-12-14 01:15:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -1710,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-12-25 05:42:11 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
@@ -1752,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "stone_age:stone_age/drying_grass": {
     "criteria": {
       "get_item": "2023-12-14 01:26:38 +0900"
@@ -1779,6 +2213,12 @@
   "goety:goety/craft_dark_altar": {
     "criteria": {
       "requirement": "2023-12-21 05:57:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -1818,9 +2258,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2023-12-22 05:58:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-12-25 06:15:07 +0900"
     },
     "done": true
   },
@@ -1926,6 +2378,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2023-12-25 05:44:49 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2023-12-14 06:03:39 +0900"
@@ -1950,6 +2414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-12-14 01:49:03 +0900"
@@ -1959,6 +2429,18 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2023-12-14 05:24:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2023-12-25 03:02:46 +0900"
     },
     "done": true
   },
@@ -1998,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-12-24 23:53:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2023-12-12 09:11:58 +0900"
@@ -2028,6 +2516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-14 03:37:13 +0900"
@@ -2040,9 +2534,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting": {
     "criteria": {
       "has_coal_ore": "2023-12-22 06:02:42 +0900"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2023-12-25 02:13:42 +0900"
     },
     "done": true
   },
@@ -2061,6 +2567,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
     "criteria": {
       "has_cobblestone": "2023-12-14 01:25:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bat_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -2094,6 +2606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/squid_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2023-12-14 03:34:27 +0900"
@@ -2103,6 +2621,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2023-12-14 02:07:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -2148,6 +2672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
     "criteria": {
       "has_wood": "2023-12-14 01:18:28 +0900"
@@ -2160,6 +2690,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/standard_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_recipe": "2023-12-14 01:50:03 +0900"
@@ -2169,6 +2717,18 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
     "criteria": {
       "has_item": "2023-12-12 08:08:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -2208,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2023-12-14 01:26:13 +0900"
@@ -2226,6 +2792,12 @@
       "stone_axe": "2023-12-14 01:50:38 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
   },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
@@ -2347,6 +2919,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-12-25 01:01:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-12-12 08:11:23 +0900"
@@ -2359,9 +2949,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2023-12-14 03:14:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -2404,6 +3006,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2023-12-14 02:55:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cake_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -2470,6 +3078,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_recipe": "2023-12-14 01:18:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/end_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -2571,9 +3185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-12-14 01:48:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -2607,9 +3233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/melon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -2637,9 +3275,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2023-12-18 00:10:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-12-25 01:42:07 +0900"
     },
     "done": true
   },
@@ -2670,6 +3326,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-12-14 01:48:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -2721,6 +3383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-14 03:37:13 +0900"
@@ -2730,6 +3398,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-14 01:52:02 +0900"
+    },
+    "done": true
+  },
+  "undead:lostsoulss": {
+    "criteria": {
+      "lostsoulss": "2023-12-25 00:33:46 +0900"
     },
     "done": true
   },
@@ -2754,6 +3428,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-12-14 05:25:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -2796,6 +3476,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-12-14 02:13:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -2916,17 +3602,34 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-12-12 09:29:09 +0900",
+      "minecraft:blaze": "2023-12-25 01:33:36 +0900",
       "minecraft:skeleton": "2023-12-14 05:05:25 +0900",
+      "minecraft:ghast": "2023-12-25 01:25:39 +0900",
+      "minecraft:vindicator": "2023-12-25 04:44:41 +0900",
+      "minecraft:magma_cube": "2023-12-25 00:34:23 +0900",
       "minecraft:spider": "2023-12-14 04:54:53 +0900",
       "minecraft:creeper": "2023-12-14 04:10:34 +0900",
+      "minecraft:evoker": "2023-12-25 04:53:50 +0900",
       "minecraft:phantom": "2023-12-18 07:51:22 +0900",
-      "minecraft:zombie": "2023-12-14 03:49:49 +0900"
+      "minecraft:witch": "2023-12-25 04:47:37 +0900",
+      "minecraft:wither_skeleton": "2023-12-25 08:50:56 +0900",
+      "minecraft:piglin": "2023-12-25 00:04:56 +0900",
+      "minecraft:enderman": "2023-12-25 00:18:28 +0900",
+      "minecraft:vex": "2023-12-25 04:56:22 +0900",
+      "minecraft:zombie": "2023-12-14 03:49:49 +0900",
+      "minecraft:drowned": "2023-12-25 00:48:02 +0900"
     },
     "done": false
   },
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2023-12-14 06:03:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-12-25 02:10:46 +0900"
     },
     "done": true
   },
@@ -2972,6 +3675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/lance_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
@@ -2981,6 +3690,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-12-25 04:42:38 +0900"
+    },
+    "done": true
+  },
+  "undead:highcow": {
+    "criteria": {
+      "highcow": "2023-12-25 06:42:20 +0900"
     },
     "done": true
   },
@@ -3005,6 +3726,18 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2023-12-14 06:14:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -3050,15 +3783,33 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2023-12-25 08:04:22 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_wood": {
     "criteria": {
       "has_wood": "2023-12-14 01:18:28 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2023-12-18 00:50:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-12-24 23:37:59 +0900"
     },
     "done": true
   },
@@ -3104,6 +3855,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2023-12-24 23:37:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2023-12-14 02:28:09 +0900"
@@ -3116,15 +3873,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cow_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -3188,6 +3969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wither_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_recipe": "2023-12-14 01:34:42 +0900"
@@ -3197,6 +3984,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-12-12 08:21:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-24 23:53:23 +0900"
     },
     "done": true
   },
@@ -3212,15 +4005,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_planks": "2023-12-14 01:34:42 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:dagger": {
     "criteria": {
       "has_dagger": "2023-12-21 07:48:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -3239,6 +4050,24 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-12-25 00:14:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-12-24 23:53:19 +0900"
     },
     "done": true
   },
@@ -3284,6 +4113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/snow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2023-12-14 01:23:15 +0900"
@@ -3293,6 +4128,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2023-12-14 03:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -3344,6 +4185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-12-24 23:37:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-12-14 01:25:56 +0900"
@@ -3353,6 +4200,18 @@
   "stone_age:recipes/stone_age/bone_arrow_head": {
     "criteria": {
       "has_recipe": "2023-12-12 08:08:34 +0900"
+    },
+    "done": true
+  },
+  "mostructures:barn_house": {
+    "criteria": {
+      "barn_house": "2023-12-24 23:58:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -3383,6 +4242,12 @@
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2023-12-12 08:11:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -3419,15 +4284,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2023-12-14 01:09:18 +0900",
+      "minecraft:mountains": "2023-12-25 05:34:24 +0900",
       "minecraft:taiga": "2023-12-12 08:08:25 +0900",
       "minecraft:giant_tree_taiga": "2023-12-12 08:19:50 +0900",
       "minecraft:taiga_hills": "2023-12-12 08:27:20 +0900",
+      "minecraft:birch_forest": "2023-12-25 06:20:24 +0900",
       "minecraft:beach": "2023-12-12 08:25:24 +0900",
       "minecraft:dark_forest": "2023-12-12 08:10:35 +0900",
       "minecraft:river": "2023-12-12 08:21:20 +0900",
       "minecraft:lukewarm_ocean": "2023-12-14 01:41:49 +0900",
+      "minecraft:wooded_mountains": "2023-12-25 06:12:39 +0900",
       "minecraft:wooded_hills": "2023-12-14 04:01:15 +0900",
       "minecraft:giant_tree_taiga_hills": "2023-12-12 08:06:28 +0900",
+      "bayou_blues:bayou": "2023-12-25 06:04:54 +0900",
+      "minecraft:swamp": "2023-12-25 05:28:50 +0900",
       "minecraft:plains": "2023-12-12 08:46:38 +0900"
     },
     "done": false
@@ -3459,6 +4329,12 @@
   "minecraft:recipes/misc/lapis_from_smelting": {
     "criteria": {
       "has_lapis_ore": "2023-12-22 06:34:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-24 23:53:23 +0900"
     },
     "done": true
   },
@@ -3516,6 +4392,12 @@
     },
     "done": true
   },
+  "undead:spicysmell": {
+    "criteria": {
+      "spicysmell": "2023-12-25 00:42:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2023-12-18 08:19:49 +0900"
@@ -3546,15 +4428,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/gold_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2023-12-14 06:14:49 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2023-12-18 02:38:27 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2023-12-24 23:38:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-12-25 01:04:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -3570,6 +4482,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "goety:goety/craft_dark_scythe": {
+    "criteria": {
+      "requirement": "2023-12-25 09:03:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting": {
     "criteria": {
       "has_diamond_ore": "2023-12-22 06:43:09 +0900"
@@ -3579,6 +4503,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2023-12-14 01:26:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -3594,9 +4524,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/hay_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-12-25 02:10:46 +0900"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2023-12-18 02:13:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-12-25 00:11:46 +0900"
     },
     "done": true
   },
@@ -3606,11 +4554,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/villager_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "goety:goety/kill_hunting_illagers": {
     "criteria": {
+      "inquillager": "2023-12-24 22:21:26 +0900",
+      "conquillager": "2023-12-25 04:54:00 +0900",
       "envioker": "2023-12-22 06:17:00 +0900"
     },
-    "done": false
+    "done": true
   },
   "stone_age:recipes/stone_age/tanning_rack": {
     "criteria": {
@@ -3648,6 +4616,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2023-12-24 23:37:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-12-14 01:26:13 +0900"
@@ -3669,6 +4643,12 @@
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_charcoal": "2023-12-14 03:36:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -3708,15 +4688,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/coal_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2023-12-14 07:25:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -3732,6 +4730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
       "has_gold_ingot": "2023-12-12 08:39:22 +0900"
@@ -3744,9 +4748,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "has_recipe": "2023-12-14 01:18:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
     },
     "done": true
   },
@@ -3796,6 +4812,7 @@
     "criteria": {
       "cooked_mutton": "2023-12-14 04:25:23 +0900",
       "sweet_berries": "2023-12-12 08:48:38 +0900",
+      "cooked_beef": "2023-12-25 07:43:20 +0900",
       "apple": "2023-12-14 01:35:46 +0900",
       "bread": "2023-12-14 02:00:43 +0900",
       "cooked_chicken": "2023-12-14 03:34:37 +0900",
@@ -3874,9 +4891,21 @@
     },
     "done": true
   },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2023-12-25 06:03:46 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
     "criteria": {
       "has_wood": "2023-12-14 01:18:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -3910,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-12-12 08:21:43 +0900"
@@ -3922,9 +4957,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/spider_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "undead:pogg": {
     "criteria": {
       "pogg": "2023-12-14 03:04:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -3943,6 +4990,12 @@
   "stone_age:recipes/stone_age/stone_hammer": {
     "criteria": {
       "has_recipe": "2023-12-14 01:50:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-12-25 01:42:07 +0900"
     },
     "done": true
   },
@@ -4000,15 +5053,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/cow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_diamond_ore": "2023-12-22 06:43:09 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bee_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_stone": {
     "criteria": {
       "has_cobblestone": "2023-12-14 01:25:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -4042,6 +5119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-12-25 00:14:37 +0900"
+    },
+    "done": true
+  },
   "aerialhell:secret/kill_fat_phantom": {
     "criteria": {
       "kill_fat_phantom": "2023-12-18 03:11:57 +0900"
@@ -4057,6 +5140,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2023-12-18 00:51:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -4078,9 +5167,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/bat_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-12-14 05:27:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-12-25 05:42:11 +0900"
     },
     "done": true
   },
@@ -4108,6 +5209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-14 03:37:13 +0900"
@@ -4117,6 +5224,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-12-14 06:03:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/squid_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -4135,6 +5248,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_recipe": "2023-12-14 02:07:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -4168,9 +5287,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/horse_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2023-12-14 01:54:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -4192,6 +5323,7 @@
       "brown_mushroom": "2023-12-14 07:13:35 +0900",
       "sugar_cane": "2023-12-21 17:00:49 +0900",
       "potato": "2023-12-18 01:04:09 +0900",
+      "nether_wart": "2023-12-25 01:55:52 +0900",
       "wheat": "2023-12-14 09:31:29 +0900",
       "carrot": "2023-12-14 09:32:03 +0900"
     },
@@ -4257,6 +5389,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-25 01:16:45 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2023-12-24 23:37:59 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/cooked_fowl_meat_from_smelting": {
     "criteria": {
       "has_recipe": "2023-12-14 04:44:26 +0900"
@@ -4266,6 +5410,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-14 03:37:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-12-25 00:13:53 +0900"
     },
     "done": true
   },
@@ -4473,6 +5623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-12-25 01:01:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-12-14 05:22:01 +0900"
@@ -4509,15 +5665,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/end_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2023-12-14 06:11:13 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:boomerang": {
     "criteria": {
       "has_boomerang": "2023-12-14 02:53:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
     },
     "done": true
   },
@@ -4551,6 +5731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "stone_age:stone_age/be_light": {
     "criteria": {
       "get_item": "2023-12-14 01:37:14 +0900"
@@ -4560,6 +5746,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2023-12-14 01:18:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -4578,6 +5770,12 @@
   "stone_age:recipes/stone_age/cooked_boar_meat_from_smelting": {
     "criteria": {
       "has_recipe": "2023-12-12 08:09:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
     },
     "done": true
   },
@@ -4611,6 +5809,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2023-12-12 09:07:43 +0900"
@@ -4629,6 +5839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2023-12-14 01:25:35 +0900"
@@ -4638,6 +5854,12 @@
   "undead:wahhghyt": {
     "criteria": {
       "wahhghyt": "2023-12-21 04:02:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
     },
     "done": true
   },
@@ -4659,6 +5881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-12-25 00:18:11 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/cooked_auroch_meat_from_smelting": {
     "criteria": {
       "has_recipe": "2023-12-14 02:21:12 +0900"
@@ -4668,6 +5896,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_wood": {
     "criteria": {
       "has_wood": "2023-12-14 01:18:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/squid_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
     },
     "done": true
   },
@@ -4683,9 +5923,27 @@
     },
     "done": true
   },
+  "goety:goety/gain_fragment": {
+    "criteria": {
+      "forbidden_fragment": "2023-12-25 07:34:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-12-24 21:44:21 +0900"
+    },
+    "done": true
+  },
   "stone_age:recipes/stone_age/stone_shovel": {
     "criteria": {
       "has_recipe": "2023-12-12 08:11:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-12-25 07:12:48 +0900"
     },
     "done": true
   },
@@ -4710,6 +5968,30 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2023-12-12 08:11:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-12-25 00:58:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-12-25 01:04:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-24 23:38:06 +0900"
     },
     "done": true
   },
@@ -4755,9 +6037,27 @@
     },
     "done": true
   },
+  "goety:goety/kill_a_skull_lord": {
+    "criteria": {
+      "kill_a_skull_lord": "2023-12-25 07:32:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
+    "criteria": {
+      "has_gold_tier_upgrade": "2023-12-24 21:44:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2023-12-18 00:50:21 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2023-12-24 23:38:01 +0900"
     },
     "done": true
   },
